@@ -8,7 +8,7 @@
 <?import javafx.scene.layout.*?>
 
 <AnchorPane fx:id="rootNode" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
-            prefHeight="87.0" prefWidth="461.0" style="-fx-border-color: gray; -fx-border-width: 1;"
+            prefHeight="287.0" prefWidth="461.0" style="-fx-border-color: gray; -fx-border-width: 1;"
             xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
     <children>
         <Rectangle fx:id="rectangleColor" arcHeight="5.0" arcWidth="5.0" fill="GREY" height="85.0" layoutX="1.0"
