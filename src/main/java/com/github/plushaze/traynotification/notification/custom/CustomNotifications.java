@@ -15,6 +15,5 @@ public class CustomNotifications {
       tray.setAnimation(Animations.SLIDE);
       tray.showAndWait();
     });
-
   }
 }
