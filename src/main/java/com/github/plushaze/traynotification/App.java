@@ -16,7 +16,7 @@ import javafx.stage.Stage;
 
 import static com.github.plushaze.traynotification.notification.custom.CustomNotifications.*;
 
-public class Main2 extends Application {
+public class App extends javafx.application.Application {
 
   public static void main(String[] args) {
     launch(args);
@@ -39,3 +39,4 @@ public class Main2 extends Application {
     primaryStage.show();
   }
 }
+
